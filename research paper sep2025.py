@@ -107,7 +107,7 @@ def create_separate_heatmaps(results_dict, catalyst_name, target_name):
 
 # --- MAIN EXECUTION ---
 # 1. READ THE EXCEL FILE
-file_path = r"C:\Users\pooji\OneDrive\Desktop\new research paper sep2025.xlsx"
+file_path = r"C:\Users\pooji\OneDrive\Desktop\research paper\new research paper sep2025.xlsx"
 sheet_names = ["Ni-Ba on ZrO2", "Ni-Ca on ZrO2", "Ni-Mn on ZrO2", "Ni-Mg on ZrO2", "Ni-K on ZrO2"]
 catalyst_data = {}
 
