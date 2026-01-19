@@ -1,6 +1,6 @@
 Ni Catalyst Predictive Modeling
 
-Machine Learning-Driven Design and Optimization of Ni-M/ZrO₂ (M = Ca, Mn, Mg, K, Ba) Catalysts for Predictive Syngas Production via Autothermal Reforming
+Machine Learning-Driven Design and Optimization of Ni-M/ZrO₂ (M = Ca, Mn, Mg, K, Ba) Catalysts for Predictive Syngas Production via Autothermal Reforming.
 
 
 Overview
@@ -39,7 +39,7 @@ ML predictions benchmarked against actual catalyst performance data.
 Key Findings
 
 Best Catalyst:
-Ni-Ba/ZrO₂ demonstrates the highest overall performance across CH₄ conversion, CO₂ conversion, and H₂ selectivity.
+Ni-Ca/ZrO₂ demonstrates the highest overall performance across CH₄ conversion, CO₂ conversion, and H₂ selectivity.
 
 Model Insights:
 Non-linear models (Random Forest, Gradient Boosting, MLP) generally outperform linear regression.
