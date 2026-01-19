@@ -1,6 +1,6 @@
 Ni Catalyst Predictive Modeling
 
-Machine learning analysis for predicting H₂ and CO selectivity in Ni-based catalysts for dry reforming of methane (DRM).
+Machine Learning-Driven Design and Optimization of Ni-M/ZrO₂ (M = Ca, Mn, Mg, K, Ba) Catalysts for Predictive Syngas Production via Autothermal Reforming
 
 
 Overview
